@@ -35,9 +35,18 @@ a:hover,
 a:focus {
     color: #eb3812;
 }
-
 #mission{
-    background: #F0F0F0
+    background: #f0f0f0
+}
+#mission p{
+    color: #222
+}
+#mission h2{
+    color: #222
+}
+
+#mission hr.light{
+    border-color: #eb3812
 }
 #about a {
     color: rgba(52, 52, 52, .7);

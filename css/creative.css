@@ -36,6 +36,9 @@ a:focus {
     color: #eb3812;
 }
 
+#mission{
+    background: #F0F0F0
+}
 #about a {
     color: rgba(52, 52, 52, .7);
 }
